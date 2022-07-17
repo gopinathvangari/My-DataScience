@@ -1,0 +1,150 @@
+Movie_Name,Release_Date(N/LW/Festive),Genre-Defind,Movie_Content,Dir_CAT,LEAD_ACTOR_CAT,Item_Song(Y/N),Production_House_CAT,Music_Dir_CAT,Box_Office_Collection,Profit,Earning_Ratio,Budget,Youtube_Views,Youtube_Likes,Youtube_Dislikes,Success/Faliure
+Hate Story 2,N,Thriller / Suspense / Horror,Prequel / Sequel,LK,LK,1,A,B,27,15,2.3,12,13798789,15708,5226,1
+Alone,N,Thriller / Suspense / Horror,Masala,LK,B,1,LK,B,25,7,1.39,18,8788913,18907,2940,0
+Zid,N,Thriller / Suspense / Horror,Masala,LK,LK,0,LK,LK,14,-6,0.7,20,6698987,6750,2234,0
+NH10,N,Thriller / Suspense / Horror,Masala,LK,A,0,LK,B,32,19,2.47,13,5592977,15464,1513,1
+Happy Ending,N,Romance,Masala,LK,A,0,A,B,22,-27,0.45,48,5192338,6928,1120,0
+Phata Poster Nikla Hero,N, Drama ,Masala,A,B,1,A,A,34,-6,0.85,40,5176897,10672,1392,0
+Heartless,N,Thriller / Suspense / Horror,Masala,LK,LK,0,LK,LK,2,-11,0.13,12,4823892,5797,227,0
+Gulaab Gang,N,Action / Sci Fi, Social subject ,LK,LK,0,LK,LK,14,-13,0.53,27,4687259,13219,1605,0
+Hunterrr,N,Comedy,Masala,LK,LK,0,LK,LK,12,7,2.64,5,4674795,3706,762,1
+Go Goa Gone,N,Comedy,Masala,LK,A,1,A,A,28,12,1.76,16,4321162,10126,964,1
+Raja Natwarlal,N,Thriller / Suspense / Horror,Masala,LK,LK,0,A,B,30,-5,0.85,35,4050407,8197,1155,0
+Lekar Hum Deewana Dil,N,Romance,Masala,LK,LK,0,A,A,3,-14,0.16,16,3998331,2307,497,0
+Daawat-E-Ishq,N,Comedy,Masala,B,B,0,A,A,25,-5,0.82,30,3905050,8315,1373,0
+Gori Tere Pyaar Mein,N,Romance,Masala,LK,B,1,A,A,13,-17,0.42,30,3799253,8559,1871,0
+Ramaiya Vastavaiya,N,Romance,Masala,B,B,1,A,LK,30,-5,0.86,35,3788488,4111,687,0
+The Xpose,HS,Thriller / Suspense / Horror,Masala,LK,LK,1,LK,A,29,13,1.81,16,3707889,3512,1292,1
+Mastram,HS,Comedy,Satire ,LK,LK,0,LK,LK,3,1,1.5,2,3557585,3927,1364,0
+The Shaukeens,N,Comedy,Masala,LK,LK,1,LK,B,33,-3,0.93,35,3395361,8395,1204,0
+Dum Laga Ke Haisha,N,Comedy,Masala,LK,B,0,A,A,30,15,2,15,3250917,8185,615,1
+Commando-A One Man Army,LW,Action / Sci Fi,Masala,LK,LK,1,A,B,21,-1,0.95,22,3162465,7519,562,0
+Bobby Jasoos,N,Comedy,Masala,LK,A,0,LK,B,11,-7,0.6,18,3113427,4512,1224,0
+Khamoshiyan,N,Thriller / Suspense / Horror,Masala,LK,LK,0,A,B,14,3,1.27,11,3094001,4599,997,0
+Highway,N, Drama ,Masala,A,B,0,A,A,27,-3,0.91,30,3043012,9100,971,0
+Creature,N,Thriller / Suspense / Horror,Masala,B,B,0,A,B,20,-4,0.83,24,2876498,5844,1537,0
+Bewakoofiyan,FS,Romance,Masala,LK,LK,0,A,LK,14,-8,0.64,22,2850376,4764,1068,0
+Ungli,N, Drama ,Masala,LK,B,0,LK,LK,14,9,3.07,5,2763615,6907,489,1
+Lootera,N,Romance,Masala,LK,A,0,A,B,28,1,1.04,27,2581449,4416,819,0
+Zanjeer,LW,Action / Sci Fi,Masala,B,B,1,A,B,18,-57,0.24,75,2539431,5634,922,0
+Dishkiyaoon,N,Action / Sci Fi,Masala,LK,A,0,B,B,6,-22,0.21,28,2397647,3308,465,0
+Hawaizaada,N, Drama ,Masala,LK,B,0,A,LK,30,5,1.21,25,2368404,8619,539,0
+Kaanchi,N, Drama ,Masala,A,LK,0,A,B,4,-27,0.13,31,2360968,2807,595,0
+Fugly,HS,Comedy,Masala,LK,LK,1,LK,B,13,3,1.26,10,2343109,2963,556,0
+Dedh Ishqiya,LW,Comedy,Masala,LK,B,1,A,A,27,-4,0.87,31,2333067,2436,591,0
+Dilliwali Zaalim Girlfriend,N,Comedy,Masala,LK,LK,0,LK,B,12,-20,0.38,32,2316047,4289,807,0
+Murder 3,FS,Thriller / Suspense / Horror,Prequel / Sequel,LK,B,1,A,B,25,13,2.08,12,2249055,1879,747,1
+B.A. Pass,N, Drama ,Masala,LK,LK,0,LK,LK,6,4,2.95,2,2240961,842,348,1
+D Day,N,Action / Sci Fi,Masala,LK,B,0,LK,A,24,-6,0.8,30,1939868,1804,224,0
+Aurangzeb,N, Drama ,Masala,LK,A,1,A,B,23,3,1.15,20,1901503,3394,754,0
+Policegiri,N,Action / Sci Fi,Masala,LK,B,1,B,A,17,-13,0.56,30,1754266,1674,420,0
+Revolver Rani,N, Drama ,Masala,LK,A,0,B,B,10,-14,0.42,24,1744602,3013,392,0
+Jolly LLB,N,Comedy,Social Subject,LK,B,1,A,LK,33,23,3.27,10,1741424,3024,181,1
+Total Siyappa,N, Drama ,Masala,LK,B,0,LK,B,12,2,1.2,10,1719399,3656,548,0
+Rajjo,FS,Romance,Masala,LK,A,1,B,A,2,-10,0.17,12,1718619,1606,1083,0
+Darr@ The Mall,N,Thriller / Suspense / Horror,Masala,LK,LK,0,B,A,5,-11,0.3,15,1679872,255,51,0
+Zilla Ghaziabad,N,Action / Sci Fi,Masala,LK,B,1,LK,B,16,-20,0.44,36,1551786,1753,619,0
+Purani Jeans,HS,Romance,Masala,LK,LK,0,A,B,1,-9,0.11,10,1537063,822,229,0
+Bombay Talkies,N, Drama ,Masala,A,B,1,B,B,14,8,2.38,6,1528538,2766,328,1
+O Teri,N,Comedy,Masala,LK,LK,1,B,LK,4,-17,0.18,21,1511318,3004,278,0
+Yeh Hai Bakrapur,HS,Comedy,Masala,LK,LK,0,LK,LK,2,-3,0.4,5,1257416,758,923,0
+Nautanki Saala,LW,Comedy,Masala,A,B,1,A,LK,22,13,2.39,9,1208841,1442,342,1
+3G,N,Thriller / Suspense / Horror,Masala,LK,B,1,LK,B,6,1,1.16,5,1200152,1385,345,0
+"Saheb, Biwi Aur Gangster Returns",FS, Drama ,Prequel / Sequel,B,B,1,A,B,22,7,1.47,15,1176596,1037,189,0
+Shortcut Romeo,N,Thriller / Suspense / Horror,Masala,LK,B,0,B,A,3,-12,0.17,15,1131573,913,255,0
+Table No. 21,N,Thriller / Suspense / Horror,Social Subject,LK,B,0,B,B,12,2,1.2,10,1087320,1129,137,0
+Inkaar,N,Romance,Masala,LK,B,0,A,A,10,5,2.05,5,1077723,897,114,1
+The Attacks of 26/11,N,Thriller / Suspense / Horror,Social Subject,B,B,0,LK,LK,32,2,1.07,30,1041892,1911,344,0
+One by Two,N,Romance,Masala,LK,B,0,LK,A,3,-10,0.21,12,1016858,1081,212,0
+Sholay 3D,N,Action / Sci Fi,Remake,A,A,0,A,A,11,-14,0.44,25,1001670,2110,268,0
+Filmistaan,HS,Comedy,Satire ,LK,LK,0,LK,LK,6,-4,0.6,10,989096,1608,173,0
+Aatma,N,Thriller / Suspense / Horror,Masala,LK,B,1,LK,LK,9,1,1.1,8,841891,997,306,0
+David,N,Thriller / Suspense / Horror,Masala,LK,LK,0,LK,LK,4,-6,0.37,10,839270,1542,95,0
+Pizza 3D,N,Thriller / Suspense / Horror,Masala,LK,LK,0,B,LK,4,-6,0.44,10,838943,1116,153,0
+Miss Lovely,N, Drama ,Masala,LK,LK,0,LK,LK,1,-4,0.14,5,808439,328,95,0
+Hawaa Hawaai,HS, Drama ,Masala,B,LK,0,LK,LK,10,-1,0.91,11,764725,1377,94,0
+Ishkq in Paris,LW,Romance,Masala,LK,B,0,B,A,2,-13,0.14,15,630506,463,83,0
+Nasha,N,Thriller / Suspense / Horror,Masala,LK,LK,1,LK,LK,8,4,2,4,613448,288,188,1
+Youngistaan,N, Drama ,Masala,LK,LK,0,B,B,7,-19,0.26,26,603710,1082,177,0
+Koyelaanchal,HS,Action / Sci Fi,Masala,LK,B,0,LK,LK,2,-6,0.25,8,591838,347,31,0
+Children Of War,HS, Drama ,Art ,LK,LK,0,LK,LK,22,10,1.83,12,577569,1640,156,1
+Amit Sahni Ki List,N,Comedy,Masala,LK,LK,0,LK,LK,4,-6,0.4,10,572336,586,54,0
+Mere Dad Ki Maruti,N,Comedy,Masala,LK,LK,0,LK,LK,11,6,2.2,5,569711,1226,133,1
+Kya Dilli Kya Lahore,HS, Drama ,Satire ,LK,B,0,LK,LK,1,-7,0.07,7,492344,2018,64,0
+Bajatey Raho,N,Comedy,Masala,LK,B,1,A,LK,10,6,2.22,5,462722,513,77,1
+Samrat and Co.,N,Thriller / Suspense / Horror,Masala,LK,LK,0,A,B,2,-16,0.11,18,371133,532,180,0
+Manjunath,HS, Drama ,Biography,LK,LK,0,A,LK,2,-1,0.58,3,370106,991,35,0
+Mickey Virus,N,Comedy,Masala,LK,LK,1,LK,LK,6,-5,0.55,11,335807,574,129,0
+Mr Joe B Carvalho,N,Comedy,Masala,LK,LK,0,LK,LK,4,-11,0.27,15,268289,139,40,0
+Mumbai Mirror,N,Action / Sci Fi,Masala,LK,B,1,B,LK,2,-2,0.51,4,235767,192,164,0
+Satya 2,FS,Thriller / Suspense / Horror,Prequel / Sequel,B,LK,1,LK,LK,1,-14,0.07,15,110315,89,26,0
+Sona Spa,N,Thriller / Suspense / Horror,Masala,LK,B,0,LK,LK,0,-10,0.02,10,79430,61,112,0
+Issaq,N,Romance,Masala,LK,LK,0,LK,LK,5,-5,0.5,10,68511,76,16,0
+Rajdhani Express,N, Drama ,Masala,LK,B,0,B,LK,0,-7,0.05,7,42626,86,19,0
+War Chhod Na Yaar,FS,Comedy,Masala,LK,B,0,LK,LK,8,-7,0.54,14,40450,33,7,0
+Bandook,N,Action / Sci Fi,Masala,LK,LK,0,LK,LK,0,-4,0.02,4,28391,8,14,0
+Baat Ban Gayi,FS,Comedy,Masala,LK,B,1,LK,LK,2,-3,0.38,4,23186,9,4,0
+Gangoobai,N, Drama ,Masala,LK,B,0,LK,LK,0,-2,0.01,2,4354,1,1,0
+Krrish 3,FS,Action / Sci Fi,Prequel / Sequel,A,A,0,A,A,300,185,2.61,115,23171067,72070,11888,1
+Kick,N,Action / Sci Fi,Masala,A,A,1,A,A,377,277,3.77,100,18986221,101275,10066,1
+Bang Bang,FS,Action / Sci Fi,Masala,B,A,1,A,A,340,200,2.43,140,15889811,61805,6283,1
+Action Jackson,N,Action / Sci Fi,Masala,B,A,1,LK,A,57,-33,0.64,90,13279636,19240,3859,0
+PK,HS, Drama ,Satire ,A,A,1,A,A,735,650,8.65,85,13270623,43767,5693,1
+2 States,LW,Romance,Book / Novel,LK,A,0,A,A,104,68,2.89,36,8576361,26622,2527,1
+Singham Returns,LW,Action / Sci Fi,Prequel / Sequel,A,A,0,A,A,200,110,2.22,90,8287587,20011,2899,1
+Baby,N,Action / Sci Fi,Masala,B,A,1,A,A,125,65,2.08,60,7968156,29246,2426,1
+Roy,FS,Romance,Masala,LK,A,0,A,A,58,18,1.45,40,7687797,18974,3229,0
+Race 2,LW,Thriller / Suspense / Horror,Prequel / Sequel,A,A,1,A,A,162,102,2.7,60,7641333,12617,2138,1
+Haider,FS, Drama ,Art ,A,B,0,A,A,69,45,2.88,24,7048104,23590,2443,1
+Holiday,HS,Action / Sci Fi,Masala,A,A,0,B,A,129,79,2.58,50,6841635,14182,1997,1
+Humpty Sharma Ki Dulhania,N,Romance,Masala,LK,B,0,A,LK,130,110,6.5,20,6604595,14535,2208,1
+Boss,FS, Drama ,Masala,LK,A,1,A,B,45,-5,0.9,50,6464704,22977,3396,0
+Happy New Year,LW, Drama ,Masala,A,A,1,A,A,383,258,3.06,125,6395202,37585,10269,1
+Entertainment,N,Comedy,Masala,A,A,0,A,B,163,103,2.72,60,6336058,20472,2843,1
+Humshakals,HS,Comedy,Masala,A,A,1,B,A,64,-11,0.85,75,6280868,1,1,0
+Finding Fanny,N,Comedy,Masala,B,A,0,B,LK,59,44,3.93,15,6144142,13013,2746,1
+Tevar,N,Action / Sci Fi,Masala,LK,A,1,B,A,56,16,1.4,40,6132407,11241,1729,0
+Mary Kom,N, Drama ,Biography,LK,A,0,A,B,104,89,6.93,15,6086811,26560,1647,1
+Raanjhanaa,N,Romance,Masala,B,B,1,A,A,100,65,2.86,35,5470632,12413,1018,1
+Khoobsurat,N,Romance,Masala,LK,B,0,A,LK,39,27,3.28,12,5454349,12548,2038,1
+Ragini MMS 2,N,Thriller / Suspense / Horror,Prequel / Sequel,LK,B,1,B,B,50,32,2.78,18,5416213,6807,2717,1
+Besharam,LW,Comedy,Masala,B,A,1,LK,A,35,-50,0.41,85,5319606,10253,8165,0
+Yeh Jawaani Hai Deewani,N,Romance,Masala,B,A,1,A,A,311,241,4.44,70,5123217,13826,1640,1
+Main Tera Hero,LW,Comedy,Masala,A,B,0,B,A,55,15,1.38,40,4903941,12657,2139,0
+Kochadaiiyaan,HS,Action / Sci Fi,Masala,LK,A,0,A,A,120,-30,0.8,150,4740727,13466,2649,0
+Shaadi Ke Side Effects,N,Comedy,Masala,LK,A,0,B,A,38,-12,0.76,50,4590539,9021,1465,0
+Badlapur,FS,Action / Sci Fi,Masala,LK,B,1,A,A,77,54,3.35,23,4550051,10602,893,1
+Ek Villain,HS,Romance,Masala,B,B,1,B,B,106,71,3.01,35,4518748,13558,1094,1
+Mardaani,N, Drama , Social subject ,LK,B,0,LK,A,36,21,2.4,15,4376650,14408,1035,1
+ABCD – Any Body Can Dance,N, Drama ,Masala,B,B,0,B,A,44,32,3.67,12,4042091,10609,788,1
+Bullett Raja,N,Comedy,Masala,B,A,1,LK,A,40,-10,0.8,50,4015674,8084,2129,0
+Heropanti,HS,Romance,Masala,B,B,0,A,A,65,44,3.1,21,4005695,8189,1814,1
+Gunday,N,Action / Sci Fi,Masala,A,A,1,A,LK,77,27,1.53,50,3503887,8383,1419,1
+Yaariyan,LW,Romance,Masala,LK,LK,0,A,A,40,21,2.11,19,3331082,4853,767,1
+Once Upon Ay Time In Mumbai Dobaara!,FS,Thriller / Suspense / Horror,Prequel / Sequel,B,A,1,A,A,80,-20,0.8,100,3077135,9200,2821,0
+Bhootnath Returns,LW,Thriller / Suspense / Horror,Prequel / Sequel,LK,A,0,A,B,53,24,1.83,29,3049275,10759,657,1
+Queen,N, Drama ,Masala,B,A,0,A,B,61,36,2.44,25,2981381,5339,443,1
+Aashiqui 2,N,Romance,Prequel / Sequel,B,LK,0,A,A,110,98,9.17,12,2926673,4944,628,1
+Yamla Pagla Deewana 2,N,Comedy,Prequel / Sequel,LK,A,1,B,B,55,31,2.29,24,2775792,5457,681,1
+Bhaag Milkha Bhaag,N, Drama ,Biography,A,A,0,B,A,164,134,5.47,30,2635390,4622,456,1
+Hasee To Phansee,N,Romance,Masala,LK,B,1,A,B,36,9,1.31,27,2543707,6390,975,0
+Himmatwala,N,Action / Sci Fi,Remake,A,A,1,A,A,100,50,2,50,2501277,1,1,1
+Matru Ki Bijlee Ka Mandola,N,Comedy,Masala,A,A,1,A,A,40,7,1.21,33,2435283,4326,647,0
+Kill Dil,N,Romance,Masala,B,A,0,A,A,36,1,1.03,35,2375050,4358,555,0
+Ghanchakkar,N,Comedy,Masala,LK,A,1,LK,B,38,8,1.27,30,2248046,5108,614,0
+Shamitabh,N, Drama ,Masala,B,A,0,A,LK,38,-2,0.95,40,2105508,5599,677,0
+Kai Po Che!,N, Drama ,Masala,B,LK,0,A,A,62,32,2.07,30,1888754,5686,512,1
+Chennai Express,FS,Comedy,Masala,A,A,1,A,A,395,320,5.27,75,1882346,7954,1593,1
+Ek Thi Daayan,FS,Thriller / Suspense / Horror,Masala,LK,B,1,B,A,45,21,1.88,24,1837437,3296,613,1
+Special 26,N, Drama ,Masala,B,A,0,B,A,103,61,2.45,42,1829417,6248,568,1
+Grand Masti,LW,Comedy,Masala,B,B,1,A,A,298,263,8.51,35,1795640,3015,721,1
+Madras Cafe,N,Thriller / Suspense / Horror,Social Subject,B,B,0,A,A,43,8,1.22,35,1709945,2974,594,0
+Satyagraha,N, Drama ,Social Subject,A,A,1,A,A,60,10,1.2,50,1422568,2736,394,0
+Shahid,FS, Drama ,Biography,B,B,0,A,LK,40,34,6.35,6,1148516,3155,396,1
+Citylights,HS, Drama ,Masala,LK,B,0,A,B,35,28,5,7,1076591,1806,84,1
+The Lunchbox,N, Drama ,Masala,LK,A,0,LK,LK,85,75,8.5,10,1064854,4054,285,1
+Jai Ho,N,Action / Sci Fi,Masala,A,A,0,B,A,111,-9,0.93,120,868743,2783,404,0
+Shootout at Wadala,N,Thriller / Suspense / Horror,Masala,B,B,1,A,A,75,30,1.67,45,769365,784,126,1
+Fukrey,N,Comedy,Masala,LK,LK,1,B,LK,36,31,7.24,5,227912,222,39,1
+Chashme Baddoor,N,Comedy,Masala,A,B,1,A,A,42,22,2.1,20,166066,2897,283,1
+Shuddh Desi Romance,LW,Romance,Masala,LK,B,0,A,A,55,30,2.2,25,5142,1,1,1

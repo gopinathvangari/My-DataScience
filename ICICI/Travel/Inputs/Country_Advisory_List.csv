@@ -1,0 +1,239 @@
+,Country_Code,Country,Continent,Advisory_Score,Advisory_Message
+0,AD,Andorra,EU,3.8,Andorra has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Andorra.
+1,AE,United Arab Emirates,AS,3.6,United Arab Emirates has a current risk level of 3.6 (out of 5). We advise: Please reconsider your need to travel to United Arab Emirates.
+2,AF,Afghanistan,AS,5.0,Afghanistan has a current risk level of 5 (out of 5). We advise: It is not safe to travel Afghanistan.
+3,AG,Antigua and Barbuda,NA,4.0,Antigua and Barbuda has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Antigua and Barbuda.
+4,AI,Anguilla,NA,4.0,Anguilla has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Anguilla.
+5,AL,Albania,EU,3.7,Albania has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Albania.
+6,AM,Armenia,AS,4.3,Armenia has a current risk level of 4.3 (out of 5). We advise: Please reconsider your need to travel to Armenia.
+7,AO,Angola,AF,3.5,Angola has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Angola.
+8,AR,Argentina,SA,3.9,Argentina has a current risk level of 3.9 (out of 5). We advise: Please reconsider your need to travel to Argentina.
+9,AS,American Samoa,OC,4.0,American Samoa has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to American Samoa.
+10,AT,Austria,EU,3.8,Austria has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Austria.
+11,AU,Australia,OC,3.0,Australia has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Australia.
+12,AW,Aruba,NA,4.0,Aruba has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Aruba.
+13,AZ,Azerbaijan,AS,3.8,Azerbaijan has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Azerbaijan.
+14,BA,Bosnia and Herzegovina,EU,4.0,Bosnia and Herzegovina has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Bosnia and Herzegovina.
+15,BB,Barbados,NA,3.0,Barbados has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Barbados.
+16,BD,Bangladesh,AS,3.8,Bangladesh has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Bangladesh.
+17,BE,Belgium,EU,3.5,Belgium has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Belgium.
+18,BF,Burkina Faso,AF,3.9,Burkina Faso has a current risk level of 3.9 (out of 5). We advise: Please reconsider your need to travel to Burkina Faso.
+19,BG,Bulgaria,EU,3.7,Bulgaria has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Bulgaria.
+20,BH,Bahrain,AS,3.7,Bahrain has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Bahrain.
+21,BI,Burundi,AF,4.8,Burundi has a current risk level of 4.8 (out of 5). We advise: It is not safe to travel Burundi.
+22,BJ,Benin,AF,3.5,Benin has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Benin.
+23,BL,Saint Barthélemy,NA,4.0,Saint Barthélemy has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Saint Barthélemy.
+24,BM,Bermuda,NA,4.0,Bermuda has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Bermuda.
+25,BN,Brunei,AS,3.4,Brunei has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Brunei.
+26,BO,Bolivia,SA,3.7,Bolivia has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Bolivia.
+27,BR,Brazil,SA,3.9,Brazil has a current risk level of 3.9 (out of 5). We advise: Please reconsider your need to travel to Brazil.
+28,BS,Bahamas,NA,3.8,Bahamas has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Bahamas.
+29,BT,Bhutan,AS,4.0,Bhutan has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Bhutan.
+30,BW,Botswana,AF,3.8,Botswana has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Botswana.
+31,BY,Belarus,EU,4.0,Belarus has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Belarus.
+32,BZ,Belize,NA,3.5,Belize has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Belize.
+33,CA,Canada,NA,3.8,Canada has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Canada.
+34,CC,Cocos Islands,SA,0.0,Cocos Islands has a current risk level of 0 (out of 5). We advise: Travelling Cocos Islands is (relatively) safe.
+35,CD,Democratic Republic of the Congo,AF,3.9,Democratic Republic of the Congo has a current risk level of 3.9 (out of 5). We advise: Please reconsider your need to travel to Democratic Republic of the Congo.
+36,CF,Central African Republic,AF,5.0,Central African Republic has a current risk level of 5 (out of 5). We advise: It is not safe to travel Central African Republic.
+37,CG,Republic of the Congo,AF,3.3,Republic of the Congo has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Republic of the Congo.
+38,CH,Switzerland,EU,4.0,Switzerland has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Switzerland.
+39,CI,Ivory Coast,AF,3.3,Ivory Coast has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Ivory Coast.
+40,CK,Cook Islands,OC,4.5,Cook Islands has a current risk level of 4.5 (out of 5). We advise: It is not safe to travel Cook Islands.
+41,CL,Chile,SA,3.9,Chile has a current risk level of 3.9 (out of 5). We advise: Please reconsider your need to travel to Chile.
+42,CM,Cameroon,AF,3.4,Cameroon has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Cameroon.
+43,CN,China,AS,4.0,China has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to China.
+44,CO,Colombia,SA,3.6,Colombia has a current risk level of 3.6 (out of 5). We advise: Please reconsider your need to travel to Colombia.
+45,CR,Costa Rica,NA,3.7,Costa Rica has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Costa Rica.
+46,CU,Cuba,NA,4.0,Cuba has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Cuba.
+47,CV,Cape Verde,AF,3.5,Cape Verde has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Cape Verde.
+48,CX,Christmas Island,OC,0.0,Christmas Island has a current risk level of 0 (out of 5). We advise: Travelling Christmas Island is (relatively) safe.
+49,CY,Cyprus,EU,3.8,Cyprus has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Cyprus.
+50,CZ,Czech Republic,EU,4.0,Czech Republic has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Czech Republic.
+51,DE,Germany,EU,3.5,Germany has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Germany.
+52,DJ,Djibouti,AF,3.5,Djibouti has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Djibouti.
+53,DK,Denmark,EU,3.5,Denmark has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Denmark.
+54,DM,Dominica,NA,4.0,Dominica has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Dominica.
+55,DO,Dominican Republic,NA,3.8,Dominican Republic has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Dominican Republic.
+56,DZ,Algeria,AF,3.4,Algeria has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Algeria.
+57,EC,Ecuador,SA,3.7,Ecuador has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Ecuador.
+58,EE,Estonia,EU,3.8,Estonia has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Estonia.
+59,EG,Egypt,AF,3.6,Egypt has a current risk level of 3.6 (out of 5). We advise: Please reconsider your need to travel to Egypt.
+60,EH,Western Sahara,AF,0.0,Western Sahara has a current risk level of 0 (out of 5). We advise: Travelling Western Sahara is (relatively) safe.
+61,ER,Eritrea,AF,4.0,Eritrea has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Eritrea.
+62,ES,Spain,EU,3.5,Spain has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Spain.
+63,ET,Ethiopia,AF,3.4,Ethiopia has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Ethiopia.
+64,FI,Finland,EU,4.2,Finland has a current risk level of 4.2 (out of 5). We advise: Please reconsider your need to travel to Finland.
+65,FJ,Fiji,OC,3.4,Fiji has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Fiji.
+66,FK,Falkland Islands,SA,4.0,Falkland Islands has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Falkland Islands.
+67,FM,Micronesia,OC,2.0,Micronesia has a current risk level of 2 (out of 5). We advise: Travelling Micronesia is (relatively) safe.
+68,FO,Faroe Islands,EU,0.0,Faroe Islands has a current risk level of 0 (out of 5). We advise: Travelling Faroe Islands is (relatively) safe.
+69,FR,France,EU,3.6,France has a current risk level of 3.6 (out of 5). We advise: Please reconsider your need to travel to France.
+70,GA,Gabon,AF,4.3,Gabon has a current risk level of 4.3 (out of 5). We advise: Please reconsider your need to travel to Gabon.
+71,GB,United Kingdom,EU,3.5,United Kingdom has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to United Kingdom.
+72,GD,Grenada,NA,3.3,Grenada has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Grenada.
+73,GE,Georgia,AS,3.8,Georgia has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Georgia.
+74,GF,French Guiana,SA,4.0,French Guiana has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to French Guiana.
+75,GG,Guernsey,EU,0.0,Guernsey has a current risk level of 0 (out of 5). We advise: Travelling Guernsey is (relatively) safe.
+76,GH,Ghana,AF,4.2,Ghana has a current risk level of 4.2 (out of 5). We advise: Please reconsider your need to travel to Ghana.
+77,GI,Gibraltar,EU,4.0,Gibraltar has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Gibraltar.
+78,GL,Greenland,NA,4.0,Greenland has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Greenland.
+79,GM,Gambia,AF,3.6,Gambia has a current risk level of 3.6 (out of 5). We advise: Please reconsider your need to travel to Gambia.
+80,GN,Guinea,AF,3.8,Guinea has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Guinea.
+81,GP,Guadeloupe,NA,4.0,Guadeloupe has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Guadeloupe.
+82,GQ,Equatorial Guinea,AF,3.3,Equatorial Guinea has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Equatorial Guinea.
+83,GR,Greece,EU,3.6,Greece has a current risk level of 3.6 (out of 5). We advise: Please reconsider your need to travel to Greece.
+84,GS,South Georgia and the South Sandwich Islands,AN,0.0,South Georgia and the South Sandwich Islands has a current risk level of 0 (out of 5). We advise: Travelling South Georgia and the South Sandwich Islands is (relatively) safe.
+85,GT,Guatemala,NA,3.7,Guatemala has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Guatemala.
+86,GU,Guam,OC,4.5,Guam has a current risk level of 4.5 (out of 5). We advise: It is not safe to travel Guam.
+87,GW,Guinea-Bissau,AF,3.3,Guinea-Bissau has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Guinea-Bissau.
+88,GY,Guyana,SA,3.8,Guyana has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Guyana.
+89,HK,Hong Kong,AS,3.7,Hong Kong has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Hong Kong.
+90,HN,Honduras,NA,3.5,Honduras has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Honduras.
+91,HR,Croatia,EU,3.7,Croatia has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Croatia.
+92,HT,Haiti,NA,4.4,Haiti has a current risk level of 4.4 (out of 5). We advise: Please reconsider your need to travel to Haiti.
+93,HU,Hungary,EU,3.8,Hungary has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Hungary.
+94,ID,Indonesia,AS,3.9,Indonesia has a current risk level of 3.9 (out of 5). We advise: Please reconsider your need to travel to Indonesia.
+95,IE,Ireland,EU,3.8,Ireland has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Ireland.
+96,IL,Israel,AS,3.7,Israel has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Israel.
+97,IM,Isle of Man,EU,0.0,Isle of Man has a current risk level of 0 (out of 5). We advise: Travelling Isle of Man is (relatively) safe.
+98,IN,India,AS,3.9,India has a current risk level of 3.9 (out of 5). We advise: Please reconsider your need to travel to India.
+99,IQ,Iraq,AS,4.7,Iraq has a current risk level of 4.7 (out of 5). We advise: It is not safe to travel Iraq.
+100,IR,Iran,AS,4.6,Iran has a current risk level of 4.6 (out of 5). We advise: It is not safe to travel Iran.
+101,IS,Iceland,EU,3.8,Iceland has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Iceland.
+102,IT,Italy,EU,3.7,Italy has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Italy.
+103,JE,Jersey,EU,0.0,Jersey has a current risk level of 0 (out of 5). We advise: Travelling Jersey is (relatively) safe.
+104,JM,Jamaica,NA,3.7,Jamaica has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Jamaica.
+105,JO,Jordan,AS,3.6,Jordan has a current risk level of 3.6 (out of 5). We advise: Please reconsider your need to travel to Jordan.
+106,JP,Japan,AS,3.5,Japan has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Japan.
+107,KE,Kenya,AF,3.4,Kenya has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Kenya.
+108,KG,Kyrgyzstan,AS,3.4,Kyrgyzstan has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Kyrgyzstan.
+109,KH,Cambodia,AS,3.5,Cambodia has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Cambodia.
+110,KI,Kiribati,OC,4.0,Kiribati has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Kiribati.
+111,KM,Comoros,AF,4.0,Comoros has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Comoros.
+112,KN,Saint Kitts and Nevis,NA,3.3,Saint Kitts and Nevis has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Saint Kitts and Nevis.
+113,KP,North Korea,AS,4.3,North Korea has a current risk level of 4.3 (out of 5). We advise: Please reconsider your need to travel to North Korea.
+114,KR,South Korea,AS,3.3,South Korea has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling South Korea.
+115,KW,Kuwait,AS,3.7,Kuwait has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Kuwait.
+116,KY,Cayman Islands,NA,4.0,Cayman Islands has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Cayman Islands.
+117,KZ,Kazakhstan,AS,3.5,Kazakhstan has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Kazakhstan.
+118,LA,Laos,AS,3.2,Laos has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Laos.
+119,LB,Lebanon,AS,3.4,Lebanon has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Lebanon.
+120,LC,Saint Lucia,NA,4.0,Saint Lucia has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Saint Lucia.
+121,LI,Liechtenstein,EU,3.5,Liechtenstein has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Liechtenstein.
+122,LK,Sri Lanka,AS,3.6,Sri Lanka has a current risk level of 3.6 (out of 5). We advise: Please reconsider your need to travel to Sri Lanka.
+123,LR,Liberia,AF,3.8,Liberia has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Liberia.
+124,LS,Lesotho,AF,3.8,Lesotho has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Lesotho.
+125,LT,Lithuania,EU,3.8,Lithuania has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Lithuania.
+126,LU,Luxembourg,EU,3.5,Luxembourg has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Luxembourg.
+127,LV,Latvia,EU,3.8,Latvia has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Latvia.
+128,LY,Libya,AF,5.0,Libya has a current risk level of 5 (out of 5). We advise: It is not safe to travel Libya.
+129,MA,Morocco,AF,3.4,Morocco has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Morocco.
+130,MC,Monaco,EU,3.3,Monaco has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Monaco.
+131,MD,Moldova,EU,3.6,Moldova has a current risk level of 3.6 (out of 5). We advise: Please reconsider your need to travel to Moldova.
+132,ME,Montenegro,EU,4.0,Montenegro has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Montenegro.
+133,MF,Saint Martin,NA,4.0,Saint Martin has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Saint Martin.
+134,MG,Madagascar,AF,3.4,Madagascar has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Madagascar.
+135,MH,Marshall Islands,OC,3.7,Marshall Islands has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Marshall Islands.
+136,MK,Macedonia,EU,3.3,Macedonia has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Macedonia.
+137,ML,Mali,AF,4.7,Mali has a current risk level of 4.7 (out of 5). We advise: It is not safe to travel Mali.
+138,MM,Myanmar,AS,3.5,Myanmar has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Myanmar.
+139,MN,Mongolia,AS,3.8,Mongolia has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Mongolia.
+140,MO,Macao,AS,2.3,Macao has a current risk level of 2.3 (out of 5). We advise: Travelling Macao is (relatively) safe.
+141,MP,Northern Mariana Islands,OC,0.0,Northern Mariana Islands has a current risk level of 0 (out of 5). We advise: Travelling Northern Mariana Islands is (relatively) safe.
+142,MQ,Martinique,NA,4.0,Martinique has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Martinique.
+143,MR,Mauritania,AF,4.0,Mauritania has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Mauritania.
+144,MS,Montserrat,NA,4.0,Montserrat has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Montserrat.
+145,MT,Malta,EU,3.8,Malta has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Malta.
+146,MU,Mauritius,AF,3.4,Mauritius has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Mauritius.
+147,MV,Maldives,AS,4.0,Maldives has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Maldives.
+148,MW,Malawi,AF,3.8,Malawi has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Malawi.
+149,MX,Mexico,NA,3.9,Mexico has a current risk level of 3.9 (out of 5). We advise: Please reconsider your need to travel to Mexico.
+150,MY,Malaysia,AS,3.7,Malaysia has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Malaysia.
+151,MZ,Mozambique,AF,3.5,Mozambique has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Mozambique.
+152,NA,Namibia,AF,3.8,Namibia has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Namibia.
+153,NC,New Caledonia,OC,3.7,New Caledonia has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to New Caledonia.
+154,NE,Niger,AF,4.1,Niger has a current risk level of 4.1 (out of 5). We advise: Please reconsider your need to travel to Niger.
+155,NF,Norfolk Island,OC,0.0,Norfolk Island has a current risk level of 0 (out of 5). We advise: Travelling Norfolk Island is (relatively) safe.
+156,NG,Nigeria,AF,3.7,Nigeria has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Nigeria.
+157,NI,Nicaragua,NA,4.0,Nicaragua has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Nicaragua.
+158,NL,Netherlands,EU,3.8,Netherlands has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Netherlands.
+159,NO,Norway,EU,3.6,Norway has a current risk level of 3.6 (out of 5). We advise: Please reconsider your need to travel to Norway.
+160,NP,Nepal,AS,3.6,Nepal has a current risk level of 3.6 (out of 5). We advise: Please reconsider your need to travel to Nepal.
+161,NU,Niue,OC,4.0,Niue has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Niue.
+162,NZ,New Zealand,OC,3.2,New Zealand has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling New Zealand.
+163,OM,Oman,AS,4.0,Oman has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Oman.
+164,PA,Panama,NA,3.3,Panama has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Panama.
+165,PE,Peru,SA,3.7,Peru has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Peru.
+166,PF,French Polynesia,OC,4.3,French Polynesia has a current risk level of 4.3 (out of 5). We advise: Please reconsider your need to travel to French Polynesia.
+167,PG,Papua New Guinea,OC,3.3,Papua New Guinea has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Papua New Guinea.
+168,PH,Philippines,AS,3.6,Philippines has a current risk level of 3.6 (out of 5). We advise: Please reconsider your need to travel to Philippines.
+169,PK,Pakistan,AS,4.0,Pakistan has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Pakistan.
+170,PL,Poland,EU,3.8,Poland has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Poland.
+171,PM,Saint Pierre and Miquelon,NA,0.0,Saint Pierre and Miquelon has a current risk level of 0 (out of 5). We advise: Travelling Saint Pierre and Miquelon is (relatively) safe.
+172,PN,Pitcairn,OC,0.0,Pitcairn has a current risk level of 0 (out of 5). We advise: Travelling Pitcairn is (relatively) safe.
+173,PR,Puerto Rico,NA,4.0,Puerto Rico has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Puerto Rico.
+174,PS,Palestinian Territory,AS,3.7,Palestinian Territory has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Palestinian Territory.
+175,PT,Portugal,EU,3.7,Portugal has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Portugal.
+176,PW,Palau,OC,3.7,Palau has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Palau.
+177,PY,Paraguay,SA,3.8,Paraguay has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Paraguay.
+178,QA,Qatar,AS,3.5,Qatar has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Qatar.
+179,RE,Reunion,AF,4.0,Reunion has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Reunion.
+180,RO,Romania,EU,4.1,Romania has a current risk level of 4.1 (out of 5). We advise: Please reconsider your need to travel to Romania.
+181,RS,Serbia,EU,4.0,Serbia has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Serbia.
+182,RU,Russia,EU,3.8,Russia has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Russia.
+183,RW,Rwanda,AF,3.2,Rwanda has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Rwanda.
+184,SA,Saudi Arabia,AS,3.4,Saudi Arabia has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Saudi Arabia.
+185,SB,Solomon Islands,OC,4.3,Solomon Islands has a current risk level of 4.3 (out of 5). We advise: Please reconsider your need to travel to Solomon Islands.
+186,SC,Seychelles,AF,3.4,Seychelles has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Seychelles.
+187,SD,Sudan,AF,4.1,Sudan has a current risk level of 4.1 (out of 5). We advise: Please reconsider your need to travel to Sudan.
+188,SE,Sweden,EU,4.0,Sweden has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Sweden.
+189,SG,Singapore,AS,3.3,Singapore has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Singapore.
+190,SH,Saint Helena,AF,0.0,Saint Helena has a current risk level of 0 (out of 5). We advise: Travelling Saint Helena is (relatively) safe.
+191,SI,Slovenia,EU,3.8,Slovenia has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Slovenia.
+192,SJ,Svalbard and Jan Mayen,EU,0.0,Svalbard and Jan Mayen has a current risk level of 0 (out of 5). We advise: Travelling Svalbard and Jan Mayen is (relatively) safe.
+193,SK,Slovakia,EU,3.8,Slovakia has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Slovakia.
+194,SL,Sierra Leone,AF,3.8,Sierra Leone has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Sierra Leone.
+195,SM,San Marino,EU,4.5,San Marino has a current risk level of 4.5 (out of 5). We advise: It is not safe to travel San Marino.
+196,SN,Senegal,AF,4.0,Senegal has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Senegal.
+197,SO,Somalia,AF,5.0,Somalia has a current risk level of 5 (out of 5). We advise: It is not safe to travel Somalia.
+198,SR,Suriname,SA,4.0,Suriname has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Suriname.
+199,SS,South Sudan,AF,5.0,South Sudan has a current risk level of 5 (out of 5). We advise: It is not safe to travel South Sudan.
+200,ST,Sao Tome and Principe,AF,4.0,Sao Tome and Principe has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Sao Tome and Principe.
+201,SV,El Salvador,NA,3.7,El Salvador has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to El Salvador.
+202,SY,Syria,AS,5.0,Syria has a current risk level of 5 (out of 5). We advise: It is not safe to travel Syria.
+203,SZ,Swaziland,AF,3.3,Swaziland has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Swaziland.
+204,TC,Turks and Caicos Islands,NA,4.0,Turks and Caicos Islands has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Turks and Caicos Islands.
+205,TD,Chad,AF,3.7,Chad has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Chad.
+206,TG,Togo,AF,4.0,Togo has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Togo.
+207,TH,Thailand,AS,3.1,Thailand has a current risk level of 3.1 (out of 5). We advise: Use some caution when travelling Thailand.
+208,TJ,Tajikistan,AS,3.5,Tajikistan has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Tajikistan.
+209,TL,East Timor,OC,3.7,East Timor has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to East Timor.
+210,TM,Turkmenistan,AS,3.8,Turkmenistan has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Turkmenistan.
+211,TN,Tunisia,AF,3.4,Tunisia has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Tunisia.
+212,TO,Tonga,OC,3.7,Tonga has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Tonga.
+213,TR,Turkey,AS,3.8,Turkey has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Turkey.
+214,TT,Trinidad and Tobago,NA,3.7,Trinidad and Tobago has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Trinidad and Tobago.
+215,TV,Tuvalu,OC,4.0,Tuvalu has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Tuvalu.
+216,TW,Taiwan,AS,3.0,Taiwan has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Taiwan.
+217,TZ,Tanzania,AF,3.6,Tanzania has a current risk level of 3.6 (out of 5). We advise: Please reconsider your need to travel to Tanzania.
+218,UA,Ukraine,EU,3.7,Ukraine has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Ukraine.
+219,UG,Uganda,AF,3.7,Uganda has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Uganda.
+220,US,United States,NA,3.0,United States has a current risk level of 3 (out of 5). We advise: Use some caution when travelling United States.
+221,UY,Uruguay,SA,3.8,Uruguay has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Uruguay.
+222,UZ,Uzbekistan,AS,3.5,Uzbekistan has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Uzbekistan.
+223,VA,Vatican,EU,5.0,Vatican has a current risk level of 5 (out of 5). We advise: It is not safe to travel Vatican.
+224,VC,Saint Vincent and the Grenadines,NA,3.0,Saint Vincent and the Grenadines has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Saint Vincent and the Grenadines.
+225,VE,Venezuela,SA,4.4,Venezuela has a current risk level of 4.4 (out of 5). We advise: Please reconsider your need to travel to Venezuela.
+226,VG,British Virgin Islands,NA,4.0,British Virgin Islands has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to British Virgin Islands.
+227,VI,U.S. Virgin Islands,NA,4.0,U.S. Virgin Islands has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to U.S. Virgin Islands.
+228,VN,Vietnam,AS,3.5,Vietnam has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Vietnam.
+229,VU,Vanuatu,OC,3.7,Vanuatu has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Vanuatu.
+230,WF,Wallis and Futuna,OC,0.0,Wallis and Futuna has a current risk level of 0 (out of 5). We advise: Travelling Wallis and Futuna is (relatively) safe.
+231,WS,Samoa,OC,3.8,Samoa has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Samoa.
+232,XK,Kosovo,EU,3.9,Kosovo has a current risk level of 3.9 (out of 5). We advise: Please reconsider your need to travel to Kosovo.
+233,YE,Yemen,AS,5.0,Yemen has a current risk level of 5 (out of 5). We advise: It is not safe to travel Yemen.
+234,YT,Mayotte,AF,4.0,Mayotte has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Mayotte.
+235,ZA,South Africa,AF,3.9,South Africa has a current risk level of 3.9 (out of 5). We advise: Please reconsider your need to travel to South Africa.
+236,ZM,Zambia,AF,3.8,Zambia has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Zambia.
+237,ZW,Zimbabwe,AF,3.7,Zimbabwe has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Zimbabwe.
